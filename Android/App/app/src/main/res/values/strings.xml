@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevicesApp</string>
+    <string name="item">Item</string>
+    <string name="items">Items</string>
+    <string name="login">Login</string>
+    <string name="internet_unstable_message">Your internet connection is unstable</string>
+    <string name="internet_stable_message">Your internet connection is stable</string>
+</resources>
